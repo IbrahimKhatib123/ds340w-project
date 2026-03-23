@@ -5,7 +5,7 @@ Improving classification performance on imbalanced tabular data using synthetic 
 
 ## Description
 This project builds on a parent research paper that uses SMOTE to handle class imbalance.  
-We replicate the baseline approach and then introduce improvements using additional techniques.
+I replicated the baseline approach and then introduce improvements using additional techniques.
 
 ## Structure
 
