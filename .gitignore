@@ -203,5 +203,10 @@ cython_debug/
 
 # Marimo
 marimo/_static/
+
+__pycache__/
+*.pyc
+*.pkl
+outputs/
 marimo/_lsp/
 __marimo__/
