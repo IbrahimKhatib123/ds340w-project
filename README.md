@@ -15,16 +15,11 @@ I replicated the baseline approach and then introduce improvements using additio
 - `outputs/` → Results and metrics
 - `docs/` → Explanation of changes
 
-## How to Run
+## Setup Instructions
 
-1. Install dependencies:
-
-pip install -r requirements.txt
-
-2. Run the project:
-
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install -r requirements.txt
 python main.py
-
 
 ## Goal
 Compare baseline SMOTE vs improved approach and evaluate performance using ROC AUC and F1 score.
