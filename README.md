@@ -19,13 +19,13 @@ I replicated the baseline approach and then introduce improvements using additio
 
 Follow these steps to run the project on your machine.
 
-1. Clone the Repository
+## 1. Clone the Repository
 
 git clone https://github.com/IbrahimKhatib123/ds340w-project.git
 
 cd ds340w-project
 
-2. Create a Virtual Environment
+## 2. Create a Virtual Environment
 
 This avoids conflicts with your system Python.
 
@@ -41,7 +41,7 @@ python -m venv venv
 
 venv\Scripts\activate
 
-3. Install Dependencies
+## 3. Install Dependencies
 
 Use these commands to make sure packages install in the correct environment:
 
@@ -49,11 +49,11 @@ python -m pip install --upgrade pip setuptools wheel
 
 python -m pip install -r requirements.txt
 
-4. Run the Project
+## 4. Run the Project
 
 python main.py
 
-5. Expected Output
+## 5. Expected Output
 
 The script will print results for:
 
@@ -67,7 +67,7 @@ Recall
 F1 Score
 ROC AUC
 
-6. Troubleshooting (if needed)
+## 6. Troubleshooting (if needed)
 
 If you see a NumPy or SciPy warning, run:
 
