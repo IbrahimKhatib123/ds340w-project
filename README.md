@@ -21,6 +21,7 @@ Follow these steps to run the project on your machine.
 
 1. Clone the Repository
 git clone https://github.com/IbrahimKhatib123/ds340w-project.git
+
 cd ds340w-project
 
 2. Create a Virtual Environment
