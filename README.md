@@ -43,12 +43,14 @@ venv\Scripts\activate
 
 3. Install Dependencies
 
-Use this command to make sure packages install in the correct environment:
+Use these commands to make sure packages install in the correct environment:
 
 python -m pip install --upgrade pip setuptools wheel
+
 python -m pip install -r requirements.txt
 
 4. Run the Project
+
 python main.py
 
 5. Expected Output
