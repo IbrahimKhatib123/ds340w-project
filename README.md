@@ -19,7 +19,7 @@ I replicated the baseline approach and then introduce improvements using additio
 
 Follow these steps to run the project on your machine.
 
-## 1. Clone the Repository
+## 1. Clone  or download the Repository
 
 git clone https://github.com/IbrahimKhatib123/ds340w-project.git
 
