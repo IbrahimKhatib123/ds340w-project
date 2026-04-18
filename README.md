@@ -41,6 +41,12 @@ python -m venv venv
 
 venv\Scripts\activate
 
+## important point before installing
+
+use cd .\ds340w-project-main to enter main folder with all files
+
+write dir in terminal to make sure you are in the right place
+
 ## 3. Install Dependencies
 
 Use these commands to make sure packages install in the correct environment:
