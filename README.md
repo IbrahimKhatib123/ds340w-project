@@ -20,6 +20,7 @@ I replicated the baseline approach and then introduce improvements using additio
 Follow these steps to run the project on your machine.
 
 1. Clone the Repository
+
 git clone https://github.com/IbrahimKhatib123/ds340w-project.git
 
 cd ds340w-project
@@ -29,11 +30,15 @@ cd ds340w-project
 This avoids conflicts with your system Python.
 
 Mac / Linux:
+
 python3 -m venv venv
+
 source venv/bin/activate
 
 Windows:
+
 python -m venv venv
+
 venv\Scripts\activate
 
 3. Install Dependencies
